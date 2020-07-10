@@ -1,4 +1,4 @@
-### Hi there 👋! follow me on twitter @aki_xavier
+### Hi there 👋! follow me on twitter [@aki_xavier](https://twitter.com/aki-xavier)
 
 <!--
 **aki-xavier/aki-xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
